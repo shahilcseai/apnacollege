@@ -1,3 +1,3 @@
 # apnacollege
 this is my first repository.
-AUTHOR - SHAHIL
+AUTHOR - SHAHIL (apna college)
